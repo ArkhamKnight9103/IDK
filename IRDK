@@ -1,2 +1,2 @@
 input = input("Please Enter A Number From One To Ten")
-print("you input :" + input
+print("you input :" + input)
